@@ -113,6 +113,7 @@ suno-autopilot/
 ├── suno_mcp.py                ← FastMCP server (all browser logic lives here)
 ├── requirements.txt           ← Python deps (fastmcp, httpx, websockets)
 ├── system-prompt-slim.txt     ← 25-line LM Studio preset
+├── suno-autopilot.desktop 
 ├── start-suno-autopilot.sh    ← launches debug Chrome on port 9222
 ├── launch-suno.sh             ← desktop launcher (Chrome + venv check)
 └── mcp.json                   ← reference MCP config for LM Studio
