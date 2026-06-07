@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Suno Autopilot
+Comment=Local AI music generation — one prompt, full track
+Exec=/path/to/suno-autopilot/launch-suno.sh
+Icon=audio-x-generic
+Terminal=false
+Categories=AudioVideo;Audio;
+StartupNotify=false
