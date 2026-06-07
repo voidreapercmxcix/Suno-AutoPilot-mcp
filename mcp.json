@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "suno-autopilot": {
+      "command": "/path/to/suno-autopilot/.venv/bin/python",
+      "args": [
+        "/path/to/suno-autopilot/suno_mcp.py"
+      ],
+      "env": {
+        "SUNO_CDP_HOST": "127.0.0.1",
+        "SUNO_CDP_PORT": "9222",
+        "HCAPTCHA_ACCESSIBILITY_TOKEN": "paste-your-token-here"
+      }
+    }
+  }
+}
